@@ -6,9 +6,9 @@
 <body>
 <?php
 $h = "localhost";
-$n = "s7271";
-$p = "Krz.Kref";
-$bd = "s7271";
+$n = "";
+$p = "";
+$bd = "";
 
 /* Funkcja połączenie z Baza Danych */
 
